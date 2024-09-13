@@ -1,0 +1,1 @@
+[('numerical', StandardScaler(), ['cap-diameter', 'stem-height', 'stem-width', 'season']), ('categorical', OneHotEncoder(sparse_output=False), ['cap-shape', 'gill-attachment', 'gill-color', 'stem-color'])]

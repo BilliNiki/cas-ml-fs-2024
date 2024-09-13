@@ -1,0 +1,15 @@
+artifact_uri: file:///notebooks/mlruns/713863224137089082/4374a31e0a364870967ea50d22b43360/artifacts
+end_time: 1726235791249
+entry_point_name: ''
+experiment_id: '713863224137089082'
+lifecycle_stage: active
+run_id: 4374a31e0a364870967ea50d22b43360
+run_name: traveling-mole-760
+run_uuid: 4374a31e0a364870967ea50d22b43360
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726235742768
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,13 @@
+digest: 85da4af9
+name: dataset
+profile: '{"num_rows": 54035, "num_elements": 432280}'
+schema: '{"mlflow_colspec": [{"type": "long", "name": "cap-diameter", "required":
+  true}, {"type": "long", "name": "cap-shape", "required": true}, {"type": "long",
+  "name": "gill-attachment", "required": true}, {"type": "long", "name": "gill-color",
+  "required": true}, {"type": "double", "name": "stem-height", "required": true},
+  {"type": "long", "name": "stem-width", "required": true}, {"type": "long", "name":
+  "stem-color", "required": true}, {"type": "double", "name": "season", "required":
+  true}]}'
+source: '{"tags": {"mlflow.user": "root", "mlflow.source.name": "/usr/local/lib/python3.12/site-packages/ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code
